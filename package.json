@@ -1,0 +1,14 @@
+{
+  "name": "0b592c56e488ec85",
+  "main": "0b592c56e488ec85@1326.js",
+  "version": "1326.0.0",
+  "homepage": "https://observablehq.com/d/0b592c56e488ec85",
+  "author": {
+    "name": "Yifan Shen",
+    "url": "https://observablehq.com/@yifansh412"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
